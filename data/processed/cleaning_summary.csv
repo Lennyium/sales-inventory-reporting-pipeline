@@ -1,0 +1,11 @@
+check,row_count
+raw_rows,1067371
+duplicate_rows_removed,34335
+rows_rejected,5
+clean_rows,1033031
+missing_customer_ids_retained,235146
+missing_descriptions_retained,4275
+negative_quantity_rows_retained,22496
+cancellation_invoice_rows_retained,19104
+zero_price_rows_retained,6014
+negative_price_rows_rejected,5

@@ -1,0 +1,44 @@
+Country,invoice_count,customer_count,net_line_amount
+United Kingdom,41788,5353,17410196.12
+EIRE,626,5,658767.31
+Netherlands,229,22,554038.09
+Germany,789,107,425019.71
+France,622,95,350456.09
+Australia,95,15,169283.46
+Spain,154,41,108332.49
+Switzerland,93,22,100685.59
+Sweden,105,19,91869.82
+Denmark,43,12,68580.69
+Belgium,149,29,65387.82
+Norway,45,13,56322.5
+Portugal,95,24,56283.53
+Channel Islands,55,13,44623.33
+Japan,33,10,43023.91
+Italy,65,17,32108.17
+Finland,57,14,29925.54
+Singapore,11,1,25317.06
+Cyprus,37,11,24849.95
+Hong Kong,15,0,23685.52
+Austria,45,13,23613.01
+Greece,18,5,19096.19
+Israel,10,4,11328.81
+United Arab Emirates,16,4,11097.63
+Unspecified,24,6,10927.16
+Poland,28,6,10654.29
+USA,20,9,8366.86
+Malta,9,2,8099.09
+Iceland,8,1,4921.53
+Lithuania,6,1,4892.68
+Canada,8,5,4883.04
+RSA,4,2,4804.32
+Bahrain,10,2,3109.79
+Thailand,2,1,3070.54
+Lebanon,2,1,1905.58
+Brazil,2,2,1411.87
+European Community,4,1,1300.25
+Bermuda,1,0,1253.14
+Korea,2,2,1118.51
+Czech Republic,2,1,826.74
+West Indies,1,1,536.41
+Saudi Arabia,1,1,145.92
+Nigeria,2,1,140.39

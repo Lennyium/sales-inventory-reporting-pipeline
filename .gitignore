@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Original source data: download separately
+data/raw/*
+!data/raw/.gitkeep
+
+# Large generated transaction files
+data/processed/clean_transactions.csv
+data/processed/rejected_transactions.csv
+
+# Local database and logs
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+logs/*.log
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

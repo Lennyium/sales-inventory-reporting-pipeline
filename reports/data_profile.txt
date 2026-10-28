@@ -1,0 +1,109 @@
+ONLINE RETAIL II — DATA PROFILE
+Source file: online_retail_II.xlsx
+Raw data is not modified by this script.
+
+Worksheets: ['Year 2009-2010', 'Year 2010-2011']
+
+=======================================================
+WORKSHEET: Year 2009-2010
+Rows: 525,461
+Columns: 8
+
+Column names:
+['InvoiceNo', 'StockCode', 'Description', 'Quantity', 'InvoiceDate', 'UnitPrice', 'CustomerID', 'Country']
+
+Data types:
+InvoiceNo              object
+StockCode              object
+Description            object
+Quantity                int64
+InvoiceDate    datetime64[us]
+UnitPrice             float64
+CustomerID            float64
+Country                   str
+
+Missing values by column:
+InvoiceNo           0
+StockCode           0
+Description      2928
+Quantity            0
+InvoiceDate         0
+UnitPrice           0
+CustomerID     107927
+Country             0
+
+Exact duplicate rows: 6,865
+Negative quantities: 12,326
+Zero quantities: 0
+Invalid or missing quantities: 0
+Negative prices: 3
+Zero prices: 3,687
+Invalid or missing prices: 0
+Cancellation invoice rows: 10,206
+Earliest valid date: 2009-12-01 07:45:00
+Latest valid date: 2010-12-09 20:01:00
+Invalid or missing dates: 0
+Distinct InvoiceNo values: 28,816
+Distinct StockCode values: 4,632
+Distinct CustomerID values: 4,383
+Distinct Country values: 40
+
+First five rows:
+InvoiceNo StockCode                         Description  Quantity         InvoiceDate  UnitPrice  CustomerID        Country
+   489434     85048 15CM CHRISTMAS GLASS BALL 20 LIGHTS        12 2009-12-01 07:45:00       6.95     13085.0 United Kingdom
+   489434    79323P                  PINK CHERRY LIGHTS        12 2009-12-01 07:45:00       6.75     13085.0 United Kingdom
+   489434    79323W                 WHITE CHERRY LIGHTS        12 2009-12-01 07:45:00       6.75     13085.0 United Kingdom
+   489434     22041        RECORD FRAME 7" SINGLE SIZE         48 2009-12-01 07:45:00       2.10     13085.0 United Kingdom
+   489434     21232      STRAWBERRY CERAMIC TRINKET BOX        24 2009-12-01 07:45:00       1.25     13085.0 United Kingdom
+
+=======================================================
+WORKSHEET: Year 2010-2011
+Rows: 541,910
+Columns: 8
+
+Column names:
+['InvoiceNo', 'StockCode', 'Description', 'Quantity', 'InvoiceDate', 'UnitPrice', 'CustomerID', 'Country']
+
+Data types:
+InvoiceNo              object
+StockCode              object
+Description            object
+Quantity                int64
+InvoiceDate    datetime64[us]
+UnitPrice             float64
+CustomerID            float64
+Country                   str
+
+Missing values by column:
+InvoiceNo           0
+StockCode           0
+Description      1454
+Quantity            0
+InvoiceDate         0
+UnitPrice           0
+CustomerID     135080
+Country             0
+
+Exact duplicate rows: 5,268
+Negative quantities: 10,624
+Zero quantities: 0
+Invalid or missing quantities: 0
+Negative prices: 2
+Zero prices: 2,515
+Invalid or missing prices: 0
+Cancellation invoice rows: 9,288
+Earliest valid date: 2010-12-01 08:26:00
+Latest valid date: 2011-12-09 12:50:00
+Invalid or missing dates: 0
+Distinct InvoiceNo values: 25,900
+Distinct StockCode values: 4,070
+Distinct CustomerID values: 4,372
+Distinct Country values: 38
+
+First five rows:
+InvoiceNo StockCode                         Description  Quantity         InvoiceDate  UnitPrice  CustomerID        Country
+   536365    85123A  WHITE HANGING HEART T-LIGHT HOLDER         6 2010-12-01 08:26:00       2.55     17850.0 United Kingdom
+   536365     71053                 WHITE METAL LANTERN         6 2010-12-01 08:26:00       3.39     17850.0 United Kingdom
+   536365    84406B      CREAM CUPID HEARTS COAT HANGER         8 2010-12-01 08:26:00       2.75     17850.0 United Kingdom
+   536365    84029G KNITTED UNION FLAG HOT WATER BOTTLE         6 2010-12-01 08:26:00       3.39     17850.0 United Kingdom
+   536365    84029E      RED WOOLLY HOTTIE WHITE HEART.         6 2010-12-01 08:26:00       3.39     17850.0 United Kingdom
