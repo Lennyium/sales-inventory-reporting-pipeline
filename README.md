@@ -148,7 +148,7 @@ Generated files and exact folder contents may vary as the project evolves.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sales-inventory-reporting-pipeline.git
+git clone https://github.com/Lennyium/sales-inventory-reporting-pipeline.git
 cd sales-inventory-reporting-pipeline
 ```
 
