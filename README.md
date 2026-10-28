@@ -152,8 +152,6 @@ git clone https://github.com/Lennyium/sales-inventory-reporting-pipeline.git
 cd sales-inventory-reporting-pipeline
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ### 2. Create a virtual environment
 
 Windows:
