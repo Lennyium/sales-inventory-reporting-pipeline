@@ -94,6 +94,20 @@ The export script produces four CSV files:
 
 The current exports contain 25 monthly records, 5,298 product records, 43 country records, and 5,304 simulated inventory records.
 
+## Key Business Insights
+
+1. **The United Kingdom dominated reported sales.** The UK recorded approximately 17.41 million in net line amount, substantially exceeding the next-highest countries, EIRE (658.77K) and the Netherlands (554.04K). This highlights the retailer's strong concentration in its home market.
+
+2. **November was the strongest month in both observed years.** Positive sales line amounts reached approximately 1.46 million in November 2010 and 1.50 million in November 2011. December recorded lower amounts in both years, although December 2011 appears to contain fewer transactions, so the year-end decline should be interpreted cautiously.
+
+3. **Product rankings include non-merchandise entries.** “Manual” ranked first by reported net line amount at 339.23K, followed by the Regency Cake Stand at 330.59K and Dotcom Postage at 309.85K. This shows why product rankings should be reviewed for service, postage, and manual-adjustment entries before drawing conclusions about physical product demand.
+
+4. **Cancellation values were negative and varied by month.** The largest reported monthly cancellation amount by absolute value was approximately -205.09K in December 2011, followed by -131.36K in January 2011. These patterns indicate that cancellations should be monitored separately from positive sales line amounts.
+
+5. **Data quality and metric definitions matter.** The pipeline processed 1,067,371 source rows, removed 34,335 duplicates, rejected 5 rows, and retained 1,033,031 cleaned rows. Separating cancellation amounts and zero-price negative-quantity adjustments helps make reporting more transparent and reduces the risk of misinterpreting transaction data.
+
+> **Interpretation note:** Sales figures are transaction line-amount measures, not independently verified accounting revenue or profit. The inventory dashboard uses simulated stock quantities and statuses, not actual warehouse inventory.
+
 ## Important Definitions & Limitations
 
 ### Sales values
