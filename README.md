@@ -10,6 +10,19 @@ The pipeline processes the UCI Online Retail II dataset, standardizes and cleans
 
 It also includes a **simulated inventory analysis** to demonstrate how sales history can be used to create illustrative stock-status indicators. These inventory quantities are synthetic and do not represent actual warehouse stock.
 
+## Dashboard Preview
+
+### Sales Overview
+
+![Sales Overview Dashboard](screenshots/sales-overview.png)
+
+### Inventory Overview
+
+![Inventory Overview Dashboard](screenshots/inventory-overview.png)
+
+> **Note:** Inventory quantities and stock-status classifications
+> are simulated for demonstration purposes.
+
 ## Business Questions
 
 The project is designed to answer the following questions:
