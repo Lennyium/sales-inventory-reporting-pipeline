@@ -188,7 +188,7 @@ The inspection script `src/inspect_negative_rows.py` can be run separately when 
 
 ### 6. Open the Power BI report
 
-Open the saved `.pbix` file, if included in the repository. Otherwise, open Power BI Desktop and import the CSV files from `reports/exports/`.
+Open the saved `.pbix` file included in the repository. Otherwise, open Power BI Desktop and import the CSV files from `reports/exports/`.
 
 ## Future Improvements
 
